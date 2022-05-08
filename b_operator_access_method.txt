@@ -1,0 +1,6 @@
+Which operator used to access attribute, properties and methods of an object?
+
+full stop '.'
+eg:
+    obj1.rate
+    obj1.calculate()
